@@ -1,1 +1,5 @@
 node_modules
+External/node-express/node_modules
+External/node-mongo/node_modules
+External/node-http/node_modules
+External/node-mongoose/node_modules
